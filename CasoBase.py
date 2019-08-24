@@ -12,7 +12,7 @@ M = 16
 
 Lim_pago_inferior = 0
 Lim_pago_superior = None
-Debe_pagar_deuda = True
+Debe_pagar_deuda = False
 
 alpha = 1
 beta = 36
